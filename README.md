@@ -1,5 +1,5 @@
-# Your Project's Title...
-Your project's description...
+# Scribble Diaries
+Personal blog that serves as a digital journal, documenting your daily musings, insights, and adventures. It could encompass a wide range of topics, including personal anecdotes, travel experiences, creative writing, introspective reflections, and perhaps even artistic endeavors like doodles or sketches.
 
 ## Environments
 - Preview: https://main--{repo}--{owner}.hlx.page/
